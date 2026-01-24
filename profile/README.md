@@ -1,4 +1,7 @@
 ## Hi there 👋
 我们是123panNextGen开发组，致力于开发更优的网盘解决方案，欢迎加入我们！  
+<img align="middle" src="https://count.getloli.com/@123pannextgen?darkmode=auto">
+
+---
 QQ交流群：996241397  
 网站：https://123pannextgen.github.io/website/
