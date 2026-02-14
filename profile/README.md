@@ -10,4 +10,6 @@
 
 ## 联系方式
 QQ交流群：996241397  
-网站：https://123pannextgen.github.io/website/
+- 你可以私聊管理员得到开发组交流群
+
+网站：https://www.123panng.top/
