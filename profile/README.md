@@ -13,7 +13,5 @@
 - 网站（cloudflare cdn，更新可能不及时）：https://download.123panng.top/
 
 ## 联系方式
-QQ交流群：996241397  
-- 你可以私聊管理员得到开发组交流群
-
-网站：https://www.123panng.top/
+- QQ交流群：996241397
+- 网站：https://www.123panng.top/
