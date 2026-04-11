@@ -10,8 +10,9 @@
 
 ## 项目下载
 - GitHub: https://github.com/123panNextGen/123pan/releases
-- 网站（cloudflare cdn，更新可能不及时）：https://download.123panng.top/
+- 官网分流:（Cloudflare CDN，更新可能不及时）：https://download.123panng.top/
 
 ## 联系方式
 - QQ交流群：996241397
+- Github讨论区：https://github.com/123panNextGen/123pan/discussions
 - 网站：https://www.123panng.top/
