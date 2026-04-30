@@ -3,16 +3,18 @@
 
 <img align="middle" src="https://count.getloli.com/@123pannextgen?darkmode=auto">
 
-<a href="https://github.com/123panNextGen/123pan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=123pan"></a>  
+<a href="https://github.com/123panNextGen/123pan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=123pan"></a>
+<a href="https://github.com/123panNextGen/pan123next"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=pan123next"></a>
 
-### 项目下载
+
+### 123pan
+#### 项目下载
 - GitHub: https://github.com/123panNextGen/123pan/releases
 - 官网分流:（Cloudflare CDN，更新可能不及时）：https://download.123panng.top/
 
-### 联系方式
+#### 讨论&交流
 - QQ交流群：996241397
 - Github讨论区：https://github.com/123panNextGen/123pan/discussions
-- 网站：https://www.123panng.top/
 
 ---
 
