@@ -1,5 +1,5 @@
 # Hi there 👋
-<img src="https://raw.githubusercontent.com/123panNextGen/logo/refs/heads/main/logo.png" width="50" height="50" class="shake" loading="lazy" alt="logo"/>
+<img src="https://raw.githubusercontent.com/123panNextGen/logo/refs/heads/main/img/logo-v2.png" width="50" height="50" class="shake" loading="lazy" alt="logo"/>
 我们是123panNextGen开发组，致力于开发更优的网盘解决方案，欢迎加入我们！  
 
 ---
