@@ -13,7 +13,7 @@
 ## 123pan
 ### 项目下载
 - GitHub: https://github.com/123panNextGen/123pan/releases
-- 官网分流:（Cloudflare CDN，更新可能不及时）：https://download.123panng.top/
+- 官网分流:（Cloudflare CDN，更新可能不及时）：https://download.123panng.top/123pan/
 
 ### 讨论&交流
 - QQ交流群：996241397
@@ -22,6 +22,7 @@
 ## pan123Next
 ### 项目下载
 - GitHub: https://github.com/123panNextGen/pan123next/releases
+- 官网分流:（Cloudflare CDN，更新可能不及时）：https://download.123panng.top/pan123next/
 
 ### 讨论&交流
 - QQ交流群：996241397
@@ -30,6 +31,7 @@
 ## 123pan-cli
 ### 项目下载
 - GitHub: https://github.com/123panNextGen/123pan-cli/releases
+- 官网分流:（Cloudflare CDN，更新可能不及时）：https://download.123panng.top/123pan-cli/
 
 ### 讨论&交流
 - QQ交流群：996241397
