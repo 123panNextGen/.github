@@ -1,43 +1,39 @@
 # Hi there 👋
-<img src="https://raw.githubusercontent.com/123panNextGen/logo/refs/heads/main/img/logo-v2.png" width="50" height="50" class="shake" loading="lazy" alt="logo"/>
+<a href="https://www.123panng.top/"><img src="https://raw.githubusercontent.com/123panNextGen/logo/refs/heads/main/img/logo-v2.png" width="50" height="50" loading="lazy" alt="logo"/><a/>
+<br>
 我们是123panNextGen开发组，致力于开发更优的网盘解决方案，欢迎加入我们！  
-
----
+<br>
 <img align="middle" src="https://count.getloli.com/@123pannextgen?darkmode=auto">
-<a href="https://github.com/123panNextGen/123pan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=123pan"></a>
-<a href="https://github.com/123panNextGen/pan123next"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=pan123next"></a>
-<a href="https://github.com/123panNextGen/123pan-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=123pan-cli"></a>
 
 ---
+## 快速链接
+|项目名称|Releases|下载站|Issues|PR|Discussions|
+|---|---|---|---|---|---|
+|<a href="https://github.com/123panNextGen/123pan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=123pan" loading="lazy" alt="123pan"></a>|[Releases](https://github.com/123panNextGen/123pan/releases)|[下载站](https://download.123panng.top/123pan/)|[Issues](https://github.com/123panNextGen/123pan/issues)|[PR](https://github.com/123panNextGen/123pan/pulls)|[discussions](https://github.com/123panNextGen/123pan/discussions)|
+|<a href="https://github.com/123panNextGen/pan123next"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=pan123next" loading="lazy" alt="pan123next"></a>|[Releases](https://github.com/123panNextGen/pan123next/releases)|[下载站](https://download.123panng.top/pan123next/)|[Issues](https://github.com/123panNextGen/pan123next/issues)|[PR](https://github.com/123panNextGen/pan123next/pulls)|[discussions](https://github.com/123panNextGen/pan123next/discussions)|
+|<a href="https://github.com/123panNextGen/123pan-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=123pan-cli" loading="lazy" alt="123pan-cli"></a>|[Releases](https://github.com/123panNextGen/123pan-cli/releases)|[下载站](https://download.123panng.top/123pan-cli/)|[Issues](https://github.com/123panNextGen/123pan-cli/issues)|[PR](https://github.com/123panNextGen/123pan-cli/pulls)|[discussions](https://github.com/123panNextGen/123pan-cli/discussions)|
 
-## 123pan
-### 项目下载
-- GitHub: https://github.com/123panNextGen/123pan/releases
-- 官网分流:（Cloudflare CDN，更新可能不及时）：https://download.123panng.top/123pan/
+## 交流&社区支持
+- [Github Discussions](https://github.com/orgs/123panNextGen/discussions)
+- [QQ](https://qm.qq.com/q/nu8NLH5qBW)
 
-### 讨论&交流
-- QQ交流群：996241397
-- Github讨论区：https://github.com/123panNextGen/123pan/discussions
-
-## pan123Next
-### 项目下载
-- GitHub: https://github.com/123panNextGen/pan123next/releases
-- 官网分流:（Cloudflare CDN，更新可能不及时）：https://download.123panng.top/pan123next/
-
-### 讨论&交流
-- QQ交流群：996241397
-- Github讨论区：https://github.com/123panNextGen/pan123next/discussions
-
-## 123pan-cli
-### 项目下载
-- GitHub: https://github.com/123panNextGen/123pan-cli/releases
-- 官网分流:（Cloudflare CDN，更新可能不及时）：https://download.123panng.top/123pan-cli/
-
-### 讨论&交流
-- QQ交流群：996241397
-- Github讨论区：https://github.com/123panNextGen/123pan-cli/discussions
-
----
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/chart?repos=123panNextGen/123pan%2C123panNextGen/pan123next%2C123panNextGen/123pan-cli&type=date&legend=top-left)](https://www.star-history.com/?repos=123panNextGen%2F123pan%2C123panNextGen%2Fpan123next%2C123panNextGen%2F123pan-cli&type=date&legend=top-left)
+
+---
+```
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⣼⣿⣿⣦⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⢸⣿⣿⡟⢰⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⠿⢿⣦⣀⠀⠘⠛⠛⠃⠸⠿⠟⣫⣴⣶⣾⡆⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⡀⠀⠉⢿⣦⡀⠀⠀⠀⠀⠀⠀⠛⠿⠿⣿⠃⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣦⠀⠀⠹⣿⣶⡾⠛⠛⢷⣦⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣧⠀⠀⠈⠉⣀⡀⠀⠀⠙⢿⡇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⡿⠟⠋⠀⠀⢠⣾⠟⠃⠀⠀⠀⢸⣿⡆⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣠⣶⡿⠛⠉⠀⠀⠀⠀⠀⣾⡇⠀⠀⠀⠀⠀⢸⣿⠇⠀⠀⠀⠀⠀
+⠀⢀⣠⣾⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⢀⣼⣧⣀⠀⠀⠀⢀⣼⠇⠀⠀⠀⠀⠀⠀
+⠀⠈⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠋⠙⠛⠛⠛⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣾⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢾⠿⠋⠀⠀⠀
+```
