@@ -14,16 +14,6 @@
 |<a href="https://github.com/123panNextGen/123pan-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=123pan-cli" loading="lazy" alt="123pan-cli"></a>|[Releases](https://github.com/123panNextGen/123pan-cli/releases)|[下载站](https://download.123panng.top/123pan-cli/)|[Issues](https://github.com/123panNextGen/123pan-cli/issues)|[PR](https://github.com/123panNextGen/123pan-cli/pulls)|[discussions](https://github.com/123panNextGen/123pan-cli/discussions)|
 |<a href="https://github.com/123panNextGen/123pan-cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=123pan-cpp" loading="lazy" alt="123pan-cpp"></a>|[Releases](https://github.com/123panNextGen/123pan-cpp/releases)|[下载站](https://download.123panng.top/123pan-cpp/)|[Issues](https://github.com/123panNextGen/123pan-cpp/issues)|[PR](https://github.com/123panNextGen/123pan-cpp/pulls)|[discussions](https://github.com/123panNextGen/123pan-cpp/discussions)|
 
-## 快速对比
->数值越低越好
-
-|项目名称|速度|体积|功能|易用|
-|-------|---|---|---|---|
-|123pan|4|4|1|1|
-|pan123next|3|3|3|2|
-|123pan-cli|2|2|2|4|
-|123pan-cpp|1|1|4|3|
-
 ## 交流&社区支持
 - [Github Discussions](https://github.com/orgs/123panNextGen/discussions)
 - [QQ](https://qm.qq.com/q/nu8NLH5qBW)
