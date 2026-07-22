@@ -19,6 +19,7 @@
 ## 交流&社区支持
 - [Github Discussions](https://github.com/orgs/123panNextGen/discussions)
 - [QQ](https://qm.qq.com/q/nu8NLH5qBW)
+- ［Telegram](https://t.me/github_123pannextgen)
 
 ## Star History
 
