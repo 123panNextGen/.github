@@ -8,7 +8,7 @@
 ---
 ## 项目
 ### 技术栈
-<img src="https://skillicons.dev/icons?i=bash,dart,flutter,go,githubactions,powershell,py,qt" loading="lazy" alt="skill"/> <img src="https://www.gnu.org/graphics/gplv3-127x51.png" loading="lazy"/>
+<img src="https://skillicons.dev/icons?i=bash,dart,flutter,githubactions,powershell,py,qt" loading="lazy" alt="skill"/> <img src="https://www.gnu.org/graphics/gplv3-127x51.png" loading="lazy"/>
 ### 项目列表&快速链接
 |项目名称|Releases|下载站|Issues|PR|Discussions|
 |---|---|---|---|---|---|
