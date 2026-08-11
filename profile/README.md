@@ -14,6 +14,11 @@
 |---|---|---|---|---|---|
 |<a href="https://github.com/123panNextGen/123pan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=123pannextgen&repo=123pan" loading="lazy" alt="123pan"></a>|[Releases](https://github.com/123panNextGen/123pan/releases)|[下载站](https://download.123panng.top/123pan/)|[Issues](https://github.com/123panNextGen/123pan/issues)|[PR](https://github.com/123panNextGen/123pan/pulls)|[discussions](https://github.com/123panNextGen/123pan/discussions)|
 
+#### 废弃/停止维护的项目
+- [123pan-cli](https://github.com/123panNextGen/123pan-cli)
+- [pan123next](https://github.com/123panNextGen/pan123next)
+- [123pan-cpp](https://github.com/123panNextGen/123pan-cpp)
+
 ## 交流&社区支持
 - [Github Discussions](https://github.com/orgs/123panNextGen/discussions)
 - [QQ](https://qm.qq.com/q/nu8NLH5qBW)
