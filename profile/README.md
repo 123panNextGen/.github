@@ -17,7 +17,6 @@
 #### 废弃/停止维护的项目
 - [123pan-cli](https://github.com/123panNextGen/123pan-cli)
 - [pan123next](https://github.com/123panNextGen/pan123next)
-- [123pan-cpp](https://github.com/123panNextGen/123pan-cpp)
 
 ## 交流&社区支持
 - [Github Discussions](https://github.com/orgs/123panNextGen/discussions)
