@@ -31,7 +31,7 @@
 - [Github Discussions](https://github.com/orgs/123panNextGen/discussions)
 - [QQ](https://qm.qq.com/q/nu8NLH5qBW)
 - [Telegram](https://t.me/github_123pannextgen)
-- [Codeberg](https://github.com/123panNextGen/)
+- [Codeberg](https://codeberg.org/123panNextGen/)
 
 ---
 ```
