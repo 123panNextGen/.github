@@ -13,8 +13,6 @@
 >
 >我们承诺**所有项目永久开源免费**，也**不会使用任何方式搜集您的隐私信息**，请放心使用。
 
-### 技术栈
-<img src="https://skillicons.dev/icons?i=bash,githubactions,powershell,py,qt" loading="lazy" alt="skill"/> <img src="https://www.gnu.org/graphics/gplv3-127x51.png" loading="lazy"/>
 ### 项目列表&快速链接
 
 |项目名称|Releases|下载站|Issues|PR|Discussions|
