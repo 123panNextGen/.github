@@ -28,7 +28,6 @@
 - [官方网站](https://www.123panng.top)
 - [Github Discussions](https://github.com/orgs/123panNextGen/discussions)
 - [QQ](https://qm.qq.com/q/nu8NLH5qBW)
-- [Telegram](https://t.me/github_123pannextgen)
 - [Codeberg](https://codeberg.org/123panNextGen/)
 
 ---
