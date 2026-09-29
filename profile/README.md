@@ -15,9 +15,9 @@
 
 ### 项目列表&快速链接
 
-|项目名称|Releases|下载站|Issues|PR|Discussions|
-|---|---|---|---|---|---|
-|<a href="https://github.com/123panNextGen/123pan">123pan</a>|[Releases](https://github.com/123panNextGen/123pan/releases)|[下载站](https://download.123panng.top/123pan/)|[Issues](https://github.com/123panNextGen/123pan/issues)|[PR](https://github.com/123panNextGen/123pan/pulls)|[discussions](https://github.com/123panNextGen/123pan/discussions)|
+|项目名称|Releases|Issues|PR|Discussions|
+|---|---|---|---|---|
+|<a href="https://github.com/123panNextGen/123pan">123pan</a>|[Releases](https://github.com/123panNextGen/123pan/releases)|[Issues](https://github.com/123panNextGen/123pan/issues)|[PR](https://github.com/123panNextGen/123pan/pulls)|[discussions](https://github.com/123panNextGen/123pan/discussions)|
 
 #### 废弃/停止维护的项目
 以下项目由于种种原因，将不再继续维护。
@@ -25,24 +25,6 @@
 - [pan123next](https://github.com/123panNextGen/pan123next)
 
 ## 交流&社区
-- [官方网站](https://www.123panng.top)
 - [Github Discussions](https://github.com/orgs/123panNextGen/discussions)
 - [QQ](https://qm.qq.com/q/nu8NLH5qBW)
 - [Codeberg](https://codeberg.org/123panNextGen/)
-
----
-```
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠀⣼⣿⣿⣦⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⢸⣿⣿⡟⢰⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⠿⢿⣦⣀⠀⠘⠛⠛⠃⠸⠿⠟⣫⣴⣶⣾⡆⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⡀⠀⠉⢿⣦⡀⠀⠀⠀⠀⠀⠀⠛⠿⠿⣿⠃⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣦⠀⠀⠹⣿⣶⡾⠛⠛⢷⣦⣄⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣧⠀⠀⠈⠉⣀⡀⠀⠀⠙⢿⡇⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⡿⠟⠋⠀⠀⢠⣾⠟⠃⠀⠀⠀⢸⣿⡆⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣠⣶⡿⠛⠉⠀⠀⠀⠀⠀⣾⡇⠀⠀⠀⠀⠀⢸⣿⠇⠀⠀⠀⠀⠀
-⠀⢀⣠⣾⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⢀⣼⣧⣀⠀⠀⠀⢀⣼⠇⠀⠀⠀⠀⠀⠀
-⠀⠈⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⡿⠋⠙⠛⠛⠛⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣾⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢾⠿⠋⠀⠀⠀
-```
